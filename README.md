@@ -4,7 +4,9 @@ A modern implementation of the classic Tetris game built with React, TypeScript,
 
 ![Tetris Game Screenshot](https://images.unsplash.com/photo-1510906594845-bc082582c8cc?q=80&w=2044&auto=format&fit=crop)
 
-## 🎮 [Play Now](https://dchushkov.github.io/tetris)
+## 🎮 Play Now
+- [Play on Netlify](https://luminous-bombolone-0c74ae.netlify.app)
+- [Play on GitHub Pages](https://dchushkov.github.io/tetris)
 
 ## ✨ Features
 
