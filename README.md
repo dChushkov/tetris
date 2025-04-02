@@ -6,7 +6,7 @@ A modern implementation of the classic Tetris game built with React, TypeScript,
 
 ## 🎮 Play Now
 - [Play on Netlify](https://luminous-bombolone-0c74ae.netlify.app)
-- [Play on GitHub Pages](https://dchushkov.github.io/tetris)
+- [Play on GitHub Pages](https://dChushkov.github.io/tetris)
 
 ## ✨ Features
 
